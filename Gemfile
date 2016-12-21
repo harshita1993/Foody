@@ -32,6 +32,8 @@ gem 'simple_form', '~> 3.3', '>= 3.3.1'
 gem 'bootstrap-sass', '~> 3.3', '>= 3.3.7'
 gem 'paperclip', '~> 4.3', '>= 4.3.6'
 gem 'cocoon', '~> 1.2', '>= 1.2.9'
+gem 'devise', '~> 4.2'
+
 # Use Redis adapter to run Action Cable in production
 # gem 'redis', '~> 3.0'
 # Use ActiveModel has_secure_password
